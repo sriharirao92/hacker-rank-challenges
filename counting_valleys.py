@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-# Complete the countingValleys function below.
+# Complete the countingValleys function below:
 def countingValleys(n, s):
     count = 0
     neg = 0
